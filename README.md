@@ -1,5 +1,11 @@
 🎬 **Hotflix – Online Movie Ticket Booking System**
 
+group members:
+
+ * Abdul Haseeb Qazi - 2023F-BCS-078
+ * Abdul Rahman Baig - 2023F-BCS-100
+ * Alishba Hammid - 2023F-BCS-339
+
 Hotflix is a full-stack online movie ticket booking system developed using HTML, CSS, JavaScript for the frontend and PHP with MySQL database for the backend. The system is designed to provide a secure, user-friendly, and efficient movie booking experience for both users and administrators. ticket generation, and a powerful admin dashboard for complete system management.
 
 <img width="1918" height="867" alt="1" src="https://github.com/user-attachments/assets/23b82a81-1db5-4281-8f41-36fb2ace9256" />
